@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Gotham-Regular";
+    src: url("./Century-Gothic.ttf")
+}
+
+@font-face {
+    font-family: "Gotham-bold";
+    src: url("./GOTHICB0.TTF")
+}
+
+@font-face {
+    font-family: "TwCen-Regular";
+    src: url("./TwCenClassMTStd-Regular.otf")
+}
+
+@font-face {
+    font-family: "TwCen-bold";
+    src: url("./TwCenMTStd-Bold.otf")
+}
+
+
